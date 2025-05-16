@@ -38,6 +38,7 @@ A supervised machine learning model was trained and tested on the dataset. Key p
 - False Negatives: 29 employees missed who eventually left
 
 These figures are acceptable for the current business needs, though threshold tuning could further improve performance based on company priorities.
+![image](https://github.com/user-attachments/assets/1526e9e4-9f97-4421-9b83-f718d75d6e95)
 
 ---
 
