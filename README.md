@@ -19,7 +19,7 @@ As a data analytics professional, the goal was to conduct a thorough analysis an
 
 ## 🔍 Data Source
 
-The dataset used in this project is publicly available on [Kaggle](https://www.kaggle.com/). It includes employee records with features related to workload, performance, satisfaction, tenure, and other workplace conditions.
+The dataset used in this project is publicly available on [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction?select=HR_comma_sep.csv)). It includes employee records with features related to workload, performance, satisfaction, tenure, and other workplace conditions.
 
 ---
 
