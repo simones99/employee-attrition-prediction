@@ -50,6 +50,9 @@ The following variables were most influential in predicting employee attrition:
 - `tenure` — Duration of employment
 - `overworked` — Proxy for work-life balance
 
+![image](https://github.com/user-attachments/assets/5c121b8a-5e70-4a49-ab4c-028e2049f56c)
+
+
 ---
 
 ## ✅ Conclusion & Recommendations
