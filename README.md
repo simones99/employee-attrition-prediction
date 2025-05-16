@@ -34,8 +34,8 @@ A supervised machine learning model was trained and tested on the dataset. Key p
 - **AUC**: 0.97 — Excellent discrimination between leavers and stayers
 
 **Error Analysis:**
-- False Positives: 86 employees flagged as leavers but stayed
-- False Negatives: 29 employees missed who eventually left
+- False Positives: 88 employees flagged as leavers but stayed
+- False Negatives: 35 employees missed who eventually left
 
 These figures are acceptable for the current business needs, though threshold tuning could further improve performance based on company priorities.
 ![image](https://github.com/user-attachments/assets/1526e9e4-9f97-4421-9b83-f718d75d6e95)
